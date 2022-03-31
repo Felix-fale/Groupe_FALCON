@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css">
+    <title>Formulaire</title>
+</head>
+<body>
+     <h1>Formulaire DWWM</h1>
+
+    <Div class="formulaire">
+            <form method="post" action="traitement.php">
+                <div class="deux1er_p">
+                    <p >
+                        <label class="nom">Nom</label>
+                        <input type="text" name="nom"  placeholder="Entrez votre nom" size="30px" >
+                    </p>
+
+                    <p>
+                        <label class="email">Email</label>
+                        <input class="input_email" type="Email" name="nom" placeholder="Entrez votre email" size="30px" >
+                    </p>
+                </div>
+
+                    <p class="troisi_p">
+                        <label class="indiquez">Indiquez votre satisfaction au <br> cours de 1 à 10</label>
+                        <span class="niveau_de_satisf"> <input  type="number" name="nom" placeholder="numero de 1 à 10" size="40px" max="10" in="1" > </span>
+                    </p>
+                    <br>
+
+                    <p class="quatriem_p">
+                        <label class="selecte">Qui est votre coach?</label>
+                        <select name="nom">
+                            <option value="nom">Birante SY</option>
+                            <option value="nom">DIARA</option>
+                            <option value="nom">Fale</option>
+                        </select>
+                    </p>
+
+                    <p class="cinquiem_p">
+                        <label class="label_cinqui_p" for="moment">A quel moment avez-vous cours ?</label>
+
+                            <input type="radio" id="moment"> <label for="">Matin</label> <br>
+
+                        <span class="span1_cinqui_p">
+                            <input type="radio" id="moment"> <label for="">Après-midi</label> <br>
+                        </span>
+                        <span class="span2_cinqui_p">
+                            <input type="radio" id="moment"> <label for="">Soir</label>
+                        </span>
+                    </p>
+                    
+                    <p class="sixiem_p">
+                        <label class="label_sixiem_p" for="">Quel outil avez-vous <br> rencontré jusque là? <br> (Selectionnez tout ce qui <br> s'applique)</label>
+                        <input type="checkbox" name="HTML"> <label for="">HTML</label> <br>
+
+                        <label for=""> </label>
+                        <input type="checkbox" name="CSSS"> <label for="">CSS</label> <br>
+
+                        <label for=""></label>
+                        <input type="checkbox" name="HTML"> <label for="">JavaScript</label> <br>
+
+                        <label for=""></label>
+                        <input type="checkbox" name="HTML"> <label for="">Editeur de texte</label><br>
+
+                        <span class="labell_sixiem_p">
+                            <label  for=""></label>
+                            <input type="checkbox" name="HTML"> <label for="">Ligne de commande</label>
+                        </span>
+                    </p>
+
+                    <p class="septi_p">
+                        <label class="label_septi_p" for="">Décrivrez votre expérience <br> jusque là</label> <br>
+                        <textarea name="" id="" cols="30" rows="3">Décrivrez votre expérience ici...</textarea>
+
+                    </p>
+                    <p class="huitiem_p">
+                        <button>Envoyer</button>
+                    </p>
+            </form>
+            <br>
+
+           
+
+
+
+
+    </Div>
+</body>
+</html>

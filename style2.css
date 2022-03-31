@@ -1,0 +1,136 @@
+body{
+    background-color: rgba(154, 206, 241, 0.863);
+}
+
+.formulaire{
+    background-color: white;
+    padding: 30px 50px 0px 50px;
+    margin: 40px 260px 50px 385px;
+    border-radius: 10px;
+}
+
+h1{
+    ackground-color: blue;
+    padding-left: 550px;
+}
+
+.deux1er_p{
+    ackground-color: blue;
+    padding-left: 40%;
+}
+
+.troisi_p{
+    ackground-color: blueviolet;
+}
+
+niveau_de_satisf{
+    ackground-color: rgb(110, 82, 40);
+    text-align: right;
+    size: 30px;
+}
+
+.indiquez{
+    margin-left: 59px;
+    float: left;
+    ackground-color: rgb(96, 145, 128);
+    padding-right: 40px;
+    padding-left: px;
+    text-align: right;
+}
+
+.email{
+    margin-right: 35px
+}
+
+.nom{
+    margin-right: 35px;
+    margin-left: 5px
+}
+
+.input_email{
+    margin-left: ;
+}
+
+selecte.{
+    ackground-color: rgb(9, 173, 37);
+    padding-right: 40px;
+}
+
+.quatriem_p{
+    ackground-color: brown;
+    padding-left: 118px;
+}
+
+.selecte{
+    ackground-color: blue;
+    padding-right: 35px;
+}
+
+.cinquiem_p{
+    ackground-color: aqua;
+}
+
+.label_cinqui_p{
+    ackground-color: blueviolet;
+    margin-left: 30px;
+    margin-right: 27px;
+}
+
+.span1_cinqui_p{
+    ackground-color: rgb(145, 255, 0);
+    margin-left: 278px;
+}
+
+.span2_cinqui_p{
+    ackground-color: rgb(145, 255, 0);
+    margin-left: 278px;
+}
+
+.sixiem_p{
+    ackground-color: rgb(214, 144, 144);
+}
+
+.label_sixiem_p{
+    ackground-color: rgb(174, 228, 112);
+    text-align: right;
+    float: left;
+    margin-left: 90px;
+    margin-right: 30px;
+}
+
+.labell_sixiem_p{
+    margin-left: 280px;
+    background-color: 
+}
+
+.septi_p{
+    ackground-color: rgb(66, 189, 18);
+    display: flex;
+    margin-left: 60px;
+}
+
+textarea{
+    ackground-color: aqua;
+    float: righ;
+}
+
+.label_septi_p{
+    ackground-color: rgb(219, 217, 76);
+    margin-left: 20px;
+    margin-right: 40px;
+    padding-left: px;
+    ;
+    text-align: right;
+}
+
+button{
+    background-color: rgb(24, 113, 165);
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+}
+
+.huitiem_p{
+    ackground-color: rgb(50, 87, 75);
+    margin-left: 230px;
+}
